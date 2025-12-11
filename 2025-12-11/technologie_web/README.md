@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 516                                          |
+| **Lines Added** (➕)   | 519                                          |
 | **Lines Removed** (➖) | 15                                        |
-| **Net Change** (↕)    | 501                |
-| **Active Time** (⌚)   | 77 minutes |
+| **Net Change** (↕)    | 504                |
+| **Active Time** (⌚)   | 83 minutes |
 
 
 ## Modified Files
 - **index.html** (+17, -2)
 - **style.css** (+13, -0)
 - **settings.json** (+3, -0)
-- **exercices.html** (+483, -13)
+- **exercices.html** (+486, -13)
 
 ## Visualizations
 
@@ -23,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".html" : 515
+".html" : 518
 ".css" : 13
 ".json" : 3
 ```
@@ -37,8 +37,8 @@ title Coding activity by hour (count of changes)
 "01h" : 12
 "21h" : 5
 "22h" : 15
-"23h" : 10
+"23h" : 13
 ```
 
 
-> **Last Updated:** 12/11/2025, 11:33:41 PM
+> **Last Updated:** 12/11/2025, 11:38:41 PM
