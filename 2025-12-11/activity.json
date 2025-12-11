@@ -2,7 +2,7 @@
   "date": "2025-12-11",
   "projects": {
     "technologie Web": {
-      "totalLinesAdded": 509,
+      "totalLinesAdded": 510,
       "totalLinesRemoved": 12,
       "totalActiveTime": 68,
       "files": {
@@ -739,6 +739,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-12-11T22:14:37.943Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\MasterCloud\\technologie Web\\Exercicesjs\\exercices.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "technologie Web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "html"
           }
         ]
