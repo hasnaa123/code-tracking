@@ -1,0 +1,47 @@
+{
+  "date": "2025-12-12",
+  "projects": {
+    "technologie Web": {
+      "totalLinesAdded": 2,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\dal\\Desktop\\MasterCloud\\technologie Web\\Exercicesjs\\exercices.html": [
+          {
+            "timestamp": "2025-12-11T22:44:06.314Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\MasterCloud\\technologie Web\\Exercicesjs\\exercices.html",
+            "fileType": ".html",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "technologie Web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 1
+      },
+      "changeFrequency": {
+        "23": 1
+      },
+      "topFiles": [
+        "c:\\Users\\dal\\Desktop\\MasterCloud\\technologie Web\\Exercicesjs\\exercices.html"
+      ],
+      "averageChangeSize": 2
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    23
+  ],
+  "mostUsedLanguages": [
+    "html"
+  ]
+}
