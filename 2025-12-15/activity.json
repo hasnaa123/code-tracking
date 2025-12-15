@@ -2,9 +2,9 @@
   "date": "2025-12-15",
   "projects": {
     "technologie Web": {
-      "totalLinesAdded": 1167,
+      "totalLinesAdded": 2021,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalActiveTime": 9,
       "files": {
         "c:\\Users\\dal\\Desktop\\MasterCloud\\technologie Web\\Exercicesjs\\script.js": [
           {
@@ -133,6 +133,50 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\dal\\Desktop\\MasterCloud\\technologie Web\\Solution.html": [
+          {
+            "timestamp": "2025-12-15T22:47:02.392Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\MasterCloud\\technologie Web\\Solution.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "technologie Web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-12-15T22:47:03.519Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\MasterCloud\\technologie Web\\Solution.html",
+            "fileType": ".html",
+            "linesAdded": 792,
+            "linesRemoved": 0,
+            "projectName": "technologie Web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-12-15T22:48:04.345Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\MasterCloud\\technologie Web\\Solution.html",
+            "fileType": ".html",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "technologie Web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "html"
           }
         ]
