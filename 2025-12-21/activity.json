@@ -2,9 +2,9 @@
   "date": "2025-12-21",
   "projects": {
     "technologie Web": {
-      "totalLinesAdded": 1161,
+      "totalLinesAdded": 2316,
       "totalLinesRemoved": 4,
-      "totalActiveTime": 3,
+      "totalActiveTime": 5,
       "files": {
         "c:\\Users\\dal\\Desktop\\MasterCloud\\technologie Web\\Exercicesjs\\exercices-js-async.html": [
           {
@@ -55,6 +55,50 @@
             "fileType": ".html",
             "linesAdded": 0,
             "linesRemoved": 4,
+            "projectName": "technologie Web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\dal\\Downloads\\exercices-js-async (2).html": [
+          {
+            "timestamp": "2025-12-21T16:23:17.247Z",
+            "fileName": "c:\\Users\\dal\\Downloads\\exercices-js-async (2).html",
+            "fileType": ".html",
+            "linesAdded": 1152,
+            "linesRemoved": 0,
+            "projectName": "technologie Web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-12-21T16:23:18.445Z",
+            "fileName": "c:\\Users\\dal\\Downloads\\exercices-js-async (2).html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "technologie Web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-12-21T16:23:19.495Z",
+            "fileName": "c:\\Users\\dal\\Downloads\\exercices-js-async (2).html",
+            "fileType": ".html",
+            "linesAdded": 2,
+            "linesRemoved": 0,
             "projectName": "technologie Web",
             "content": {
               "added": [],
