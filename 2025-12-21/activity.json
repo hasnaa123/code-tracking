@@ -2,9 +2,9 @@
   "date": "2025-12-21",
   "projects": {
     "technologie Web": {
-      "totalLinesAdded": 3476,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 11,
+      "totalLinesAdded": 3489,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 15,
       "files": {
         "c:\\Users\\dal\\Desktop\\MasterCloud\\technologie Web\\Exercicesjs\\exercices-js-async.html": [
           {
@@ -163,6 +163,48 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-12-21T16:42:14.499Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\MasterCloud\\technologie Web\\exercices-js-async (2).html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "technologie Web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-12-21T16:42:17.831Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\MasterCloud\\technologie Web\\exercices-js-async (2).html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "technologie Web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-12-21T16:43:59.394Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\MasterCloud\\technologie Web\\exercices-js-async (2).html",
+            "fileType": ".html",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "technologie Web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "html"
           }
         ]
