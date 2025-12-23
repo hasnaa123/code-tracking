@@ -2,7 +2,7 @@
   "date": "2025-12-23",
   "projects": {
     "technologie Web": {
-      "totalLinesAdded": 67,
+      "totalLinesAdded": 76,
       "totalLinesRemoved": 30,
       "totalActiveTime": 12,
       "files": {
@@ -201,6 +201,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-12-23T21:42:29.556Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\MasterCloud\\technologie Web\\exercices-js-async (2).html",
+            "fileType": ".html",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "technologie Web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "html"
           }
         ]
