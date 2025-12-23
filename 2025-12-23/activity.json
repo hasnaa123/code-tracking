@@ -1,0 +1,61 @@
+{
+  "date": "2025-12-23",
+  "projects": {
+    "technologie Web": {
+      "totalLinesAdded": 2,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Users\\dal\\Desktop\\MasterCloud\\technologie Web\\exercices-js-async (2).html": [
+          {
+            "timestamp": "2025-12-23T19:58:13.980Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\MasterCloud\\technologie Web\\exercices-js-async (2).html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "technologie Web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-12-23T19:59:45.001Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\MasterCloud\\technologie Web\\exercices-js-async (2).html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "technologie Web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 2
+      },
+      "changeFrequency": {
+        "20": 2
+      },
+      "topFiles": [
+        "c:\\Users\\dal\\Desktop\\MasterCloud\\technologie Web\\exercices-js-async (2).html"
+      ],
+      "averageChangeSize": 1
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    20
+  ],
+  "mostUsedLanguages": [
+    "html"
+  ]
+}
