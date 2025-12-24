@@ -2,9 +2,9 @@
   "date": "2025-12-25",
   "projects": {
     "technologie Web": {
-      "totalLinesAdded": 30,
+      "totalLinesAdded": 889,
       "totalLinesRemoved": 10,
-      "totalActiveTime": 22,
+      "totalActiveTime": 26,
       "files": {
         "c:\\Users\\dal\\Desktop\\MasterCloud\\technologie Web\\exercices-js-async (2).html": [
           {
@@ -208,6 +208,50 @@
             "fileName": "c:\\Users\\dal\\Desktop\\MasterCloud\\technologie Web\\exercices-js-async (2).html",
             "fileType": ".html",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "technologie Web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-12-24T23:06:57.821Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\MasterCloud\\technologie Web\\exercices-js-async (2).html",
+            "fileType": ".html",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "technologie Web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\dal\\Desktop\\MasterCloud\\technologie Web\\Solution.html": [
+          {
+            "timestamp": "2025-12-24T23:06:30.038Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\MasterCloud\\technologie Web\\Solution.html",
+            "fileType": ".html",
+            "linesAdded": 854,
+            "linesRemoved": 0,
+            "projectName": "technologie Web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-12-24T23:06:33.455Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\MasterCloud\\technologie Web\\Solution.html",
+            "fileType": ".html",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "technologie Web",
             "content": {
