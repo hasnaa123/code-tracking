@@ -275,9 +275,9 @@
       "averageChangeSize": 2.5
     },
     "JAVA BASICS": {
-      "totalLinesAdded": 160,
+      "totalLinesAdded": 814,
       "totalLinesRemoved": 6,
-      "totalActiveTime": 6,
+      "totalActiveTime": 28,
       "files": {
         "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\ArrayList.java": [
           {
@@ -373,6 +373,300 @@
             "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\LinkedList.java",
             "fileType": ".java",
             "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\HashSetDemo.java": [
+          {
+            "timestamp": "2025-12-25T21:23:14.204Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\HashSetDemo.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-12-25T21:23:15.265Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\HashSetDemo.java",
+            "fileType": ".java",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-12-25T21:23:27.000Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\HashSetDemo.java",
+            "fileType": ".java",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\SetComparison.java": [
+          {
+            "timestamp": "2025-12-25T21:23:45.392Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\SetComparison.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-12-25T21:23:46.400Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\SetComparison.java",
+            "fileType": ".java",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-12-25T21:23:51.915Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\SetComparison.java",
+            "fileType": ".java",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\HashMapDemo.java": [
+          {
+            "timestamp": "2025-12-25T21:24:28.670Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\HashMapDemo.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-12-25T21:24:29.699Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\HashMapDemo.java",
+            "fileType": ".java",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-12-25T21:24:35.660Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\HashMapDemo.java",
+            "fileType": ".java",
+            "linesAdded": 97,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\MapCompariso.java": [
+          {
+            "timestamp": "2025-12-25T21:24:50.191Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\MapCompariso.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-12-25T21:24:51.270Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\MapCompariso.java",
+            "fileType": ".java",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\QueueDemo.java": [
+          {
+            "timestamp": "2025-12-25T21:26:08.778Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\QueueDemo.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-12-25T21:26:13.296Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\QueueDemo.java",
+            "fileType": ".java",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-12-25T21:26:15.728Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\QueueDemo.java",
+            "fileType": ".java",
+            "linesAdded": 106,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\ComparableComparatorDemo.java": [
+          {
+            "timestamp": "2025-12-25T21:26:42.319Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\ComparableComparatorDemo.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-12-25T21:26:43.591Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\ComparableComparatorDemo.java",
+            "fileType": ".java",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-12-25T21:26:48.542Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\ComparableComparatorDemo.java",
+            "fileType": ".java",
+            "linesAdded": 138,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\CollectionsUtilityDemo.java": [
+          {
+            "timestamp": "2025-12-25T21:27:04.528Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\CollectionsUtilityDemo.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-12-25T21:27:05.601Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\CollectionsUtilityDemo.java",
+            "fileType": ".java",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-12-25T21:27:10.126Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\CollectionsUtilityDemo.java",
+            "fileType": ".java",
+            "linesAdded": 145,
             "linesRemoved": 0,
             "projectName": "JAVA BASICS",
             "content": {
