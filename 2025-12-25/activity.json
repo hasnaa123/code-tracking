@@ -275,9 +275,9 @@
       "averageChangeSize": 2.5
     },
     "JAVA BASICS": {
-      "totalLinesAdded": 814,
+      "totalLinesAdded": 1014,
       "totalLinesRemoved": 6,
-      "totalActiveTime": 28,
+      "totalActiveTime": 31,
       "files": {
         "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\ArrayList.java": [
           {
@@ -667,6 +667,50 @@
             "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\CollectionsUtilityDemo.java",
             "fileType": ".java",
             "linesAdded": 145,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\BestPractices.java": [
+          {
+            "timestamp": "2025-12-25T21:27:48.208Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\BestPractices.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-12-25T21:27:49.244Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\BestPractices.java",
+            "fileType": ".java",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-12-25T21:27:55.559Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Collection\\BestPractices.java",
+            "fileType": ".java",
+            "linesAdded": 194,
             "linesRemoved": 0,
             "projectName": "JAVA BASICS",
             "content": {
