@@ -2,9 +2,9 @@
   "date": "2026-01-05",
   "projects": {
     "JAVA BASICS": {
-      "totalLinesAdded": 19,
+      "totalLinesAdded": 26,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 12,
+      "totalActiveTime": 16,
       "files": {
         "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\DSA\\InsertionSort.java": [
           {
@@ -166,6 +166,76 @@
             "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\DSA\\InsertionSort.java",
             "fileType": ".java",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-01-05T22:06:44.509Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\DSA\\InsertionSort.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-01-05T22:07:00.958Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\DSA\\InsertionSort.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-01-05T22:07:05.425Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\DSA\\InsertionSort.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-01-05T22:07:12.337Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\DSA\\InsertionSort.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "JAVA BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-01-05T22:07:24.284Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\DSA\\InsertionSort.java",
+            "fileType": ".java",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "JAVA BASICS",
             "content": {
