@@ -3,7 +3,7 @@
   "projects": {
     "Fondamentals": {
       "totalLinesAdded": 115,
-      "totalLinesRemoved": 28,
+      "totalLinesRemoved": 36,
       "totalActiveTime": 21,
       "files": {
         "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\demo.ipynb": [
@@ -327,6 +327,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2026-02-05T16:51:29.327Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\demo.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ipynb"
           }
         ]
