@@ -2,9 +2,9 @@
   "date": "2026-02-05",
   "projects": {
     "Fondamentals": {
-      "totalLinesAdded": 72,
+      "totalLinesAdded": 115,
       "totalLinesRemoved": 28,
-      "totalActiveTime": 16,
+      "totalActiveTime": 21,
       "files": {
         "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\demo.ipynb": [
           {
@@ -236,6 +236,90 @@
             "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\demo.ipynb",
             "fileType": ".ipynb",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2026-02-05T16:43:01.993Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\demo.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2026-02-05T16:43:09.638Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\demo.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2026-02-05T16:43:36.507Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\demo.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2026-02-05T16:43:39.785Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\demo.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2026-02-05T16:43:42.732Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\demo.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2026-02-05T16:43:45.562Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\demo.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 24,
             "linesRemoved": 0,
             "projectName": "Fondamentals",
             "content": {
