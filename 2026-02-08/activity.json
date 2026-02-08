@@ -2,7 +2,7 @@
   "date": "2026-02-08",
   "projects": {
     "Fondamentals": {
-      "totalLinesAdded": 145,
+      "totalLinesAdded": 165,
       "totalLinesRemoved": 0,
       "totalActiveTime": 2,
       "files": {
@@ -64,6 +64,22 @@
             },
             "duration": 1,
             "language": "py"
+          }
+        ],
+        "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\demo2.ipynb": [
+          {
+            "timestamp": "2026-02-08T18:08:59.625Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\demo2.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ipynb"
           }
         ]
       },
