@@ -2,9 +2,9 @@
   "date": "2026-02-09",
   "projects": {
     "Fondamentals": {
-      "totalLinesAdded": 5,
+      "totalLinesAdded": 17,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalActiveTime": 10,
       "files": {
         "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\DM.java": [
           {
@@ -40,6 +40,118 @@
             "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\DM.java",
             "fileType": ".java",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-02-09T21:54:06.017Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\DM.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-02-09T21:54:19.374Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\DM.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-02-09T21:54:26.916Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\DM.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-02-09T21:55:04.443Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\DM.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-02-09T21:55:15.855Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\DM.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-02-09T21:55:21.757Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\DM.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-02-09T21:55:37.324Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\DM.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-02-09T21:55:58.490Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\DM.java",
+            "fileType": ".java",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "Fondamentals",
             "content": {
