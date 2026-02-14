@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 176                                          |
-| **Lines Removed** (➖) | 29                                        |
-| **Net Change** (↕)    | 147                |
-| **Active Time** (⌚)   | 18 minutes |
+| **Lines Added** (➕)   | 490                                          |
+| **Lines Removed** (➖) | 99                                        |
+| **Net Change** (↕)    | 391                |
+| **Active Time** (⌚)   | 38 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,11 @@
 - **Person.java** (+28, -0)
 - **Person.java** (+28, -0)
 - **Interfaces.java** (+24, -3)
-- **Student.java** (+46, -4)
+- **Student.java** (+49, -7)
+- **Prefessor.java** (+44, -0)
+- **AdministrativeStaff.java** (+36, -0)
+- **TeachingAssistant.java** (+139, -67)
+- **UniversitySystem.java** (+92, -0)
 
 ## Visualizations
 
@@ -24,7 +28,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 205
+".java" : 589
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +36,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"22h" : 19
+"22h" : 39
 ```
 
 
-> **Last Updated:** 2/14/2026, 10:48:01 PM
+> **Last Updated:** 2/14/2026, 10:53:01 PM
