@@ -2,9 +2,9 @@
   "date": "2026-02-14",
   "projects": {
     "JAVA": {
-      "totalLinesAdded": 106,
-      "totalLinesRemoved": 22,
-      "totalActiveTime": 6,
+      "totalLinesAdded": 130,
+      "totalLinesRemoved": 25,
+      "totalActiveTime": 11,
       "files": {
         "c:\\Users\\dal\\Desktop\\JAVA\\JAVA BASICS\\Classes\\UNIVERSITY_MANHEMNT\\Person.java": [
           {
@@ -93,6 +93,78 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\UNIVERSITY_MANAGEMEMNT\\Interfaces.java": [
+          {
+            "timestamp": "2026-02-14T21:38:16.195Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\UNIVERSITY_MANAGEMEMNT\\Interfaces.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JAVA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-02-14T21:38:17.215Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\UNIVERSITY_MANAGEMEMNT\\Interfaces.java",
+            "fileType": ".java",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "JAVA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-02-14T21:38:25.401Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\UNIVERSITY_MANAGEMEMNT\\Interfaces.java",
+            "fileType": ".java",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "JAVA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-02-14T21:38:34.846Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\UNIVERSITY_MANAGEMEMNT\\Interfaces.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "JAVA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-02-14T21:38:36.449Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\UNIVERSITY_MANAGEMEMNT\\Interfaces.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "JAVA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]
