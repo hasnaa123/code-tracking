@@ -840,6 +840,53 @@
         "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Learn_gu\\demo.py"
       ],
       "averageChangeSize": 1.2
+    },
+    "student_performance_system": {
+      "totalLinesAdded": 4,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\dal\\Desktop\\student_performance_system\\src\\main.py": [
+          {
+            "timestamp": "2026-02-17T23:44:06.766Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\student_performance_system\\src\\main.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "student_performance_system",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-02-17T23:44:25.807Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\student_performance_system\\src\\main.py",
+            "fileType": ".py",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "student_performance_system",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 1
+      },
+      "changeFrequency": {
+        "23": 1
+      },
+      "topFiles": [
+        "c:\\Users\\dal\\Desktop\\student_performance_system\\src\\main.py"
+      ],
+      "averageChangeSize": 2
     }
   },
   "totalActiveTime": 1,
