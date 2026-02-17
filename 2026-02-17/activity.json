@@ -2,9 +2,9 @@
   "date": "2026-02-17",
   "projects": {
     "Classes": {
-      "totalLinesAdded": 62,
+      "totalLinesAdded": 70,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 44,
+      "totalActiveTime": 48,
       "files": {
         "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Item.java": [
           {
@@ -545,6 +545,76 @@
           },
           {
             "timestamp": "2026-02-17T22:26:35.567Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Book.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Classes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-02-17T22:41:42.534Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Book.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Classes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-02-17T22:41:51.471Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Book.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Classes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-02-17T22:42:06.121Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Book.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Classes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-02-17T22:42:14.814Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Book.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Classes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-02-17T22:43:05.221Z",
             "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Book.java",
             "fileType": ".java",
             "linesAdded": 2,
