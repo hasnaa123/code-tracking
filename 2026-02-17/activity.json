@@ -655,9 +655,9 @@
       "averageChangeSize": 3
     },
     "Fondamentals": {
-      "totalLinesAdded": 4,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 6,
+      "totalLinesAdded": 9,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 13,
       "files": {
         "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Learn_gu\\demo.py": [
           {
@@ -718,6 +718,104 @@
           },
           {
             "timestamp": "2026-02-17T23:10:24.234Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Learn_gu\\demo.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-02-17T23:11:02.374Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Learn_gu\\demo.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-02-17T23:11:05.946Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Learn_gu\\demo.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-02-17T23:11:08.615Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Learn_gu\\demo.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-02-17T23:11:10.772Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Learn_gu\\demo.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-02-17T23:11:14.301Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Learn_gu\\demo.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-02-17T23:11:22.348Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Learn_gu\\demo.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-02-17T23:11:36.773Z",
             "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Learn_gu\\demo.py",
             "fileType": ".py",
             "linesAdded": 1,
