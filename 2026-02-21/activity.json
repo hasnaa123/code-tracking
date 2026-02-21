@@ -593,6 +593,53 @@
         "c:\\Users\\dal\\Desktop\\student_performance_system\\src\\main.py"
       ],
       "averageChangeSize": 1.125
+    },
+    "Learn_gu": {
+      "totalLinesAdded": 666,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Learn_gu\\Satastru.py": [
+          {
+            "timestamp": "2026-02-21T02:23:14.810Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Learn_gu\\Satastru.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Learn_gu",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-02-21T02:23:14.913Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Learn_gu\\Satastru.py",
+            "fileType": ".py",
+            "linesAdded": 665,
+            "linesRemoved": 0,
+            "projectName": "Learn_gu",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0
+      },
+      "changeFrequency": {
+        "2": 0
+      },
+      "topFiles": [
+        "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Learn_gu\\Satastru.py"
+      ],
+      "averageChangeSize": 333
     }
   },
   "totalActiveTime": 7,
