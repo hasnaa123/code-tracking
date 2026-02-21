@@ -2,9 +2,9 @@
   "date": "2026-02-21",
   "projects": {
     "student_performance_system": {
-      "totalLinesAdded": 123,
-      "totalLinesRemoved": 25,
-      "totalActiveTime": 72,
+      "totalLinesAdded": 305,
+      "totalLinesRemoved": 165,
+      "totalActiveTime": 75,
       "files": {
         "c:\\Users\\dal\\Desktop\\student_performance_system\\src\\main.py": [
           {
@@ -867,6 +867,62 @@
             "fileType": ".py",
             "linesAdded": 15,
             "linesRemoved": 0,
+            "projectName": "student_performance_system",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-02-21T02:50:35.276Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\student_performance_system\\src\\main.py",
+            "fileType": ".py",
+            "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "student_performance_system",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-02-21T02:50:50.739Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\student_performance_system\\src\\main.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 91,
+            "projectName": "student_performance_system",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-02-21T02:51:06.386Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\student_performance_system\\src\\main.py",
+            "fileType": ".py",
+            "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "student_performance_system",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-02-21T02:51:34.402Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\student_performance_system\\src\\main.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 49,
             "projectName": "student_performance_system",
             "content": {
               "added": [],
