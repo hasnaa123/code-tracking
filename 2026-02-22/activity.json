@@ -1,0 +1,61 @@
+{
+  "date": "2026-02-22",
+  "projects": {
+    "student_performance_system": {
+      "totalLinesAdded": 2,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\dal\\Desktop\\student_performance_system\\src\\main.py": [
+          {
+            "timestamp": "2026-02-22T02:24:47.549Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\student_performance_system\\src\\main.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "student_performance_system",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-02-22T02:24:49.961Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\student_performance_system\\src\\main.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "student_performance_system",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 1
+      },
+      "changeFrequency": {
+        "2": 1
+      },
+      "topFiles": [
+        "c:\\Users\\dal\\Desktop\\student_performance_system\\src\\main.py"
+      ],
+      "averageChangeSize": 2
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    2
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
