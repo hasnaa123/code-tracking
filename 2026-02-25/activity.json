@@ -3,8 +3,8 @@
   "projects": {
     "student_performance_system": {
       "totalLinesAdded": 61,
-      "totalLinesRemoved": 5,
-      "totalActiveTime": 25,
+      "totalLinesRemoved": 7,
+      "totalActiveTime": 31,
       "files": {
         "c:\\Users\\dal\\Desktop\\student_performance_system\\src\\main.py": [
           {
@@ -279,6 +279,34 @@
             "fileType": ".py",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "student_performance_system",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-02-25T00:47:19.391Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\student_performance_system\\src\\main.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "student_performance_system",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-02-25T00:47:20.416Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\student_performance_system\\src\\main.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "student_performance_system",
             "content": {
               "added": [],
