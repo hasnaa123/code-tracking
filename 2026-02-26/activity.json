@@ -2,9 +2,9 @@
   "date": "2026-02-26",
   "projects": {
     "PYTHON_AI": {
-      "totalLinesAdded": 26,
+      "totalLinesAdded": 29,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 2,
       "files": {
         "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Machine_learning\\main.ipynb": [
           {
@@ -34,6 +34,36 @@
             },
             "duration": 1,
             "language": "ipynb"
+          }
+        ],
+        "c:\\Users\\dal\\Desktop\\PYTHON_AI\\.vscode\\settings.json": [
+          {
+            "timestamp": "2026-02-26T00:51:52.066Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\.vscode\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "PYTHON_AI",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-02-26T00:51:52.524Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\.vscode\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "PYTHON_AI",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
