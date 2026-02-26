@@ -233,6 +233,67 @@
         "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Machine_learning\\main.ipynb"
       ],
       "averageChangeSize": 13
+    },
+    "Fondamentals": {
+      "totalLinesAdded": 69,
+      "totalLinesRemoved": 32,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Machine_learning\\main.ipynb": [
+          {
+            "timestamp": "2026-02-26T02:15:47.313Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Machine_learning\\main.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 68,
+            "linesRemoved": 0,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2026-02-26T02:16:15.573Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Machine_learning\\main.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 32,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2026-02-26T02:17:55.854Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Machine_learning\\main.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Fondamentals",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ipynb"
+          }
+        ]
+      },
+      "languageStats": {
+        "ipynb": 3
+      },
+      "changeFrequency": {
+        "2": 3
+      },
+      "topFiles": [
+        "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Machine_learning\\main.ipynb"
+      ],
+      "averageChangeSize": 33.666666666666664
     }
   },
   "totalActiveTime": 1,
