@@ -2,9 +2,9 @@
   "date": "2026-02-26",
   "projects": {
     "PYTHON_AI": {
-      "totalLinesAdded": 114,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 3,
+      "totalLinesAdded": 132,
+      "totalLinesRemoved": 32,
+      "totalActiveTime": 11,
       "files": {
         "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Machine_learning\\main.ipynb": [
           {
@@ -61,6 +61,62 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2026-02-26T01:54:57.424Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Machine_learning\\main.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "PYTHON_AI",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2026-02-26T01:56:05.066Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Machine_learning\\main.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "PYTHON_AI",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2026-02-26T01:56:06.962Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Machine_learning\\main.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "PYTHON_AI",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2026-02-26T01:57:20.691Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\PYTHON_AI\\Fondamentals\\Machine_learning\\main.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 25,
+            "projectName": "PYTHON_AI",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ipynb"
           }
         ],
