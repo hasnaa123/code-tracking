@@ -2,9 +2,9 @@
   "date": "2026-03-07",
   "projects": {
     "JAVA_BASICS": {
-      "totalLinesAdded": 9,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 5,
+      "totalLinesAdded": 18,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 13,
       "files": {
         "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Status.java": [
           {
@@ -84,6 +84,106 @@
             "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Item.java",
             "fileType": ".java",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JAVA_BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Book.java": [
+          {
+            "timestamp": "2026-03-07T00:23:24.757Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Book.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "JAVA_BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-07T00:23:50.337Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Book.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JAVA_BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-07T00:23:53.535Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Book.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "JAVA_BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-07T00:25:23.622Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Book.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "JAVA_BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-07T00:25:25.506Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Book.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JAVA_BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-07T00:26:31.019Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Book.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JAVA_BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-07T00:26:59.494Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Book.java",
+            "fileType": ".java",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "JAVA_BASICS",
             "content": {
