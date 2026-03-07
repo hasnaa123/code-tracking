@@ -1,0 +1,106 @@
+{
+  "date": "2026-03-07",
+  "projects": {
+    "JAVA_BASICS": {
+      "totalLinesAdded": 8,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 4,
+      "files": {
+        "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Status.java": [
+          {
+            "timestamp": "2026-03-07T00:15:47.759Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Status.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JAVA_BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-07T00:15:48.818Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Status.java",
+            "fileType": ".java",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "JAVA_BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-07T00:15:51.415Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Status.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JAVA_BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-07T00:16:13.200Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Status.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JAVA_BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Item.java": [
+          {
+            "timestamp": "2026-03-07T00:16:56.914Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Item.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "JAVA_BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 4
+      },
+      "changeFrequency": {
+        "0": 4
+      },
+      "topFiles": [
+        "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Status.java",
+        "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Item.java"
+      ],
+      "averageChangeSize": 1.8
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "java"
+  ]
+}
