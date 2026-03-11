@@ -3,8 +3,8 @@
   "projects": {
     "JAVA_BASICS": {
       "totalLinesAdded": 12,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 6,
+      "totalLinesRemoved": 22,
+      "totalActiveTime": 11,
       "files": {
         "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Interfaces.java": [
           {
@@ -77,6 +77,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Book.java": [
+          {
+            "timestamp": "2026-03-11T00:23:59.146Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\JAVA_BASICS\\Classes\\Library_Management\\Book.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "JAVA_BASICS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "java"
           }
         ]
