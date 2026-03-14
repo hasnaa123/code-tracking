@@ -2,9 +2,9 @@
   "date": "2026-03-14",
   "projects": {
     "Multi_client_chat": {
-      "totalLinesAdded": 13,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalLinesAdded": 23,
+      "totalLinesRemoved": 8,
+      "totalActiveTime": 15,
       "files": {
         "c:\\Users\\dal\\Desktop\\JAVA\\Multi_client_chat\\src\\models\\role.java": [
           {
@@ -71,6 +71,132 @@
             "fileType": ".java",
             "linesAdded": 5,
             "linesRemoved": 0,
+            "projectName": "Multi_client_chat",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-14T03:42:44.813Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\Multi_client_chat\\src\\models\\User.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Multi_client_chat",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-14T03:43:09.306Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\Multi_client_chat\\src\\models\\User.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Multi_client_chat",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-14T03:43:14.060Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\Multi_client_chat\\src\\models\\User.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Multi_client_chat",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-14T03:43:23.023Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\Multi_client_chat\\src\\models\\User.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Multi_client_chat",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-14T03:43:53.591Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\Multi_client_chat\\src\\models\\User.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Multi_client_chat",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-14T03:43:55.049Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\Multi_client_chat\\src\\models\\User.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Multi_client_chat",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-14T03:45:27.584Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\Multi_client_chat\\src\\models\\User.java",
+            "fileType": ".java",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "Multi_client_chat",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-14T03:45:31.762Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\Multi_client_chat\\src\\models\\User.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "Multi_client_chat",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-03-14T03:45:36.603Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\JAVA\\Multi_client_chat\\src\\models\\User.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "Multi_client_chat",
             "content": {
               "added": [],
