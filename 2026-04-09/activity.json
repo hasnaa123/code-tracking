@@ -1,0 +1,190 @@
+{
+  "date": "2026-04-09",
+  "projects": {
+    "chat_server": {
+      "totalLinesAdded": 35,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 10,
+      "files": {
+        "c:\\Users\\dal\\Desktop\\chat_server\\chat-server\\src\\main\\java\\chatserver\\model\\Message.java": [
+          {
+            "timestamp": "2026-04-09T20:37:12.802Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\chat_server\\chat-server\\src\\main\\java\\chatserver\\model\\Message.java",
+            "fileType": ".java",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "chat_server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-09T20:37:30.860Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\chat_server\\chat-server\\src\\main\\java\\chatserver\\model\\Message.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "chat_server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-09T20:37:45.855Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\chat_server\\chat-server\\src\\main\\java\\chatserver\\model\\Message.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "chat_server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-09T20:38:11.189Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\chat_server\\chat-server\\src\\main\\java\\chatserver\\model\\Message.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "chat_server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-09T20:38:22.399Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\chat_server\\chat-server\\src\\main\\java\\chatserver\\model\\Message.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "chat_server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-09T20:38:30.445Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\chat_server\\chat-server\\src\\main\\java\\chatserver\\model\\Message.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "chat_server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-09T20:39:16.887Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\chat_server\\chat-server\\src\\main\\java\\chatserver\\model\\Message.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "chat_server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-09T20:39:44.008Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\chat_server\\chat-server\\src\\main\\java\\chatserver\\model\\Message.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "chat_server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-09T20:39:56.349Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\chat_server\\chat-server\\src\\main\\java\\chatserver\\model\\Message.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "chat_server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-09T20:40:04.995Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\chat_server\\chat-server\\src\\main\\java\\chatserver\\model\\Message.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "chat_server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\dal\\Desktop\\chat_server\\chat-server\\src\\main\\java\\chatserver\\model\\User.java": [
+          {
+            "timestamp": "2026-04-09T20:38:06.285Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\chat_server\\chat-server\\src\\main\\java\\chatserver\\model\\User.java",
+            "fileType": ".java",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "chat_server",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 10
+      },
+      "changeFrequency": {
+        "21": 10
+      },
+      "topFiles": [
+        "c:\\Users\\dal\\Desktop\\chat_server\\chat-server\\src\\main\\java\\chatserver\\model\\Message.java",
+        "c:\\Users\\dal\\Desktop\\chat_server\\chat-server\\src\\main\\java\\chatserver\\model\\User.java"
+      ],
+      "averageChangeSize": 3.272727272727273
+    }
+  },
+  "totalActiveTime": 10,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    21
+  ],
+  "mostUsedLanguages": [
+    "java"
+  ]
+}
