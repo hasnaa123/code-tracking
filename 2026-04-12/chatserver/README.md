@@ -4,17 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 120                                          |
-| **Lines Removed** (➖) | 11                                        |
-| **Net Change** (↕)    | 109                |
-| **Active Time** (⌚)   | 76 minutes |
+| **Lines Added** (➕)   | 145                                          |
+| **Lines Removed** (➖) | 14                                        |
+| **Net Change** (↕)    | 131                |
+| **Active Time** (⌚)   | 88 minutes |
 
 
 ## Modified Files
 - **.gitignore** (+11, -0)
-- **Message.java** (+45, -2)
+- **Message.java** (+60, -5)
 - **User.java** (+47, -8)
 - **MessageType.java** (+17, -1)
+- **ChatRoom.java** (+10, -0)
 
 ## Visualizations
 
@@ -24,7 +25,7 @@
 pie showData
 title Lines changed by file type
 "unknown" : 11
-".java" : 120
+".java" : 148
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +35,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 5
 "17h" : 43
-"18h" : 22
+"18h" : 33
 ```
 
 
-> **Last Updated:** 4/12/2026, 6:21:37 PM
+> **Last Updated:** 4/12/2026, 6:26:37 PM
