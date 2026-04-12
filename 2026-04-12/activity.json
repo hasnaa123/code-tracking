@@ -2,9 +2,9 @@
   "date": "2026-04-12",
   "projects": {
     "Chatserver": {
-      "totalLinesAdded": 145,
+      "totalLinesAdded": 159,
       "totalLinesRemoved": 14,
-      "totalActiveTime": 88,
+      "totalActiveTime": 93,
       "files": {
         "c:\\Users\\dal\\Desktop\\Chatserver\\chatserver\\.gitignore": [
           {
@@ -1140,6 +1140,90 @@
             "fileName": "c:\\Users\\dal\\Desktop\\Chatserver\\chatserver\\src\\main\\java\\com\\chatserver\\model\\ChatRoom.java",
             "fileType": ".java",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Chatserver",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-12T17:53:58.377Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\Chatserver\\chatserver\\src\\main\\java\\com\\chatserver\\model\\ChatRoom.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Chatserver",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-12T17:54:14.579Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\Chatserver\\chatserver\\src\\main\\java\\com\\chatserver\\model\\ChatRoom.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Chatserver",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-12T17:54:24.729Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\Chatserver\\chatserver\\src\\main\\java\\com\\chatserver\\model\\ChatRoom.java",
+            "fileType": ".java",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Chatserver",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-12T17:54:52.973Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\Chatserver\\chatserver\\src\\main\\java\\com\\chatserver\\model\\ChatRoom.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Chatserver",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-12T17:55:35.185Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\Chatserver\\chatserver\\src\\main\\java\\com\\chatserver\\model\\ChatRoom.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Chatserver",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-12T17:55:48.034Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\Chatserver\\chatserver\\src\\main\\java\\com\\chatserver\\model\\ChatRoom.java",
+            "fileType": ".java",
+            "linesAdded": 4,
             "linesRemoved": 0,
             "projectName": "Chatserver",
             "content": {
