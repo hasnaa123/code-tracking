@@ -2,9 +2,9 @@
   "date": "2026-04-12",
   "projects": {
     "Chatserver": {
-      "totalLinesAdded": 65,
+      "totalLinesAdded": 76,
       "totalLinesRemoved": 6,
-      "totalActiveTime": 31,
+      "totalActiveTime": 39,
       "files": {
         "c:\\Users\\dal\\Desktop\\Chatserver\\chatserver\\.gitignore": [
           {
@@ -137,6 +137,104 @@
           },
           {
             "timestamp": "2026-04-12T16:10:23.728Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\Chatserver\\chatserver\\src\\main\\java\\com\\chatserver\\model\\Message.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Chatserver",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-12T16:51:45.552Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\Chatserver\\chatserver\\src\\main\\java\\com\\chatserver\\model\\Message.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Chatserver",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-12T16:51:59.721Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\Chatserver\\chatserver\\src\\main\\java\\com\\chatserver\\model\\Message.java",
+            "fileType": ".java",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "Chatserver",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-12T16:52:03.681Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\Chatserver\\chatserver\\src\\main\\java\\com\\chatserver\\model\\Message.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Chatserver",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-12T16:52:47.031Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\Chatserver\\chatserver\\src\\main\\java\\com\\chatserver\\model\\Message.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Chatserver",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-12T16:53:21.679Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\Chatserver\\chatserver\\src\\main\\java\\com\\chatserver\\model\\Message.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Chatserver",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-12T16:53:34.438Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\Chatserver\\chatserver\\src\\main\\java\\com\\chatserver\\model\\Message.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Chatserver",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-04-12T16:53:56.468Z",
             "fileName": "c:\\Users\\dal\\Desktop\\Chatserver\\chatserver\\src\\main\\java\\com\\chatserver\\model\\Message.java",
             "fileType": ".java",
             "linesAdded": 1,
