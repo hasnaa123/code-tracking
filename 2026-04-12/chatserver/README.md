@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 76                                          |
-| **Lines Removed** (➖) | 6                                        |
-| **Net Change** (↕)    | 70                |
-| **Active Time** (⌚)   | 39 minutes |
+| **Lines Added** (➕)   | 85                                          |
+| **Lines Removed** (➖) | 8                                        |
+| **Net Change** (↕)    | 77                |
+| **Active Time** (⌚)   | 48 minutes |
 
 
 ## Modified Files
 - **.gitignore** (+11, -0)
-- **Message.java** (+21, -0)
+- **Message.java** (+24, -2)
 - **User.java** (+44, -6)
+- **MessageType.java** (+6, -0)
 
 ## Visualizations
 
@@ -23,7 +24,7 @@
 pie showData
 title Lines changed by file type
 "unknown" : 11
-".java" : 71
+".java" : 82
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +33,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 5
-"17h" : 38
+"17h" : 43
 ```
 
 
-> **Last Updated:** 4/12/2026, 5:56:37 PM
+> **Last Updated:** 4/12/2026, 6:01:37 PM
