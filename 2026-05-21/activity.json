@@ -1,0 +1,89 @@
+{
+  "date": "2026-05-21",
+  "projects": {
+    "Chatserver": {
+      "totalLinesAdded": 16,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Users\\dal\\Desktop\\Chatserver\\chatserver\\src\\main\\java\\com\\chatserver\\service\\UserService.java": [
+          {
+            "timestamp": "2026-05-21T22:34:45.642Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\Chatserver\\chatserver\\src\\main\\java\\com\\chatserver\\service\\UserService.java",
+            "fileType": ".java",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "Chatserver",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-21T22:34:52.523Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\Chatserver\\chatserver\\src\\main\\java\\com\\chatserver\\service\\UserService.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Chatserver",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-21T22:35:20.987Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\Chatserver\\chatserver\\src\\main\\java\\com\\chatserver\\service\\UserService.java",
+            "fileType": ".java",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "Chatserver",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-21T22:35:43.574Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\Chatserver\\chatserver\\src\\main\\java\\com\\chatserver\\service\\UserService.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Chatserver",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 3
+      },
+      "changeFrequency": {
+        "23": 3
+      },
+      "topFiles": [
+        "c:\\Users\\dal\\Desktop\\Chatserver\\chatserver\\src\\main\\java\\com\\chatserver\\service\\UserService.java"
+      ],
+      "averageChangeSize": 4
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    23
+  ],
+  "mostUsedLanguages": [
+    "java"
+  ]
+}
