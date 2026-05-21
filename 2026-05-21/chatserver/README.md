@@ -4,14 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 29                                          |
-| **Lines Removed** (➖) | 4                                        |
-| **Net Change** (↕)    | 25                |
-| **Active Time** (⌚)   | 16 minutes |
+| **Lines Added** (➕)   | 52                                          |
+| **Lines Removed** (➖) | 11                                        |
+| **Net Change** (↕)    | 41                |
+| **Active Time** (⌚)   | 29 minutes |
 
 
 ## Modified Files
-- **UserService.java** (+29, -4)
+- **UserService.java** (+29, -11)
+- **MessageRouter.java** (+8, -0)
+- **RoomService.java** (+9, -0)
+- **AuthService.java** (+6, -0)
 
 ## Visualizations
 
@@ -20,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 33
+".java" : 63
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +31,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"23h" : 16
+"23h" : 29
 ```
 
 
-> **Last Updated:** 5/21/2026, 11:40:44 PM
+> **Last Updated:** 5/21/2026, 11:50:44 PM
