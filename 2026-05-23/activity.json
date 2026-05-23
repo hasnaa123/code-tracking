@@ -2,9 +2,9 @@
   "date": "2026-05-23",
   "projects": {
     "Java-Avanc-e-et-UML": {
-      "totalLinesAdded": 144,
+      "totalLinesAdded": 148,
       "totalLinesRemoved": 25,
-      "totalActiveTime": 50,
+      "totalActiveTime": 52,
       "files": {
         "c:\\Users\\dal\\Desktop\\MASTER BBD\\Java-Avanc-e-et-UML\\POO\\EXERCICE1\\Personne.java": [
           {
@@ -706,6 +706,34 @@
             "fileName": "c:\\Users\\dal\\Desktop\\MASTER BBD\\Java-Avanc-e-et-UML\\POO\\EXERCICE1\\main.java",
             "fileType": ".java",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Java-Avanc-e-et-UML",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-23T22:30:49.578Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\MASTER BBD\\Java-Avanc-e-et-UML\\POO\\EXERCICE1\\main.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Java-Avanc-e-et-UML",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-05-23T22:31:37.503Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\MASTER BBD\\Java-Avanc-e-et-UML\\POO\\EXERCICE1\\main.java",
+            "fileType": ".java",
+            "linesAdded": 3,
             "linesRemoved": 0,
             "projectName": "Java-Avanc-e-et-UML",
             "content": {
