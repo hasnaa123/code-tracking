@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 279                                          |
-| **Lines Removed** (➖) | 40                                        |
-| **Net Change** (↕)    | 239                |
-| **Active Time** (⌚)   | 97 minutes |
+| **Lines Added** (➕)   | 414                                          |
+| **Lines Removed** (➖) | 44                                        |
+| **Net Change** (↕)    | 370                |
+| **Active Time** (⌚)   | 121 minutes |
 
 
 ## Modified Files
@@ -15,6 +15,8 @@
 - **Task.java** (+86, -25)
 - **User.java** (+85, -0)
 - **Comment.java** (+73, -7)
+- **Organisation.java** (+67, -4)
+- **Project.java** (+68, -0)
 
 ## Visualizations
 
@@ -23,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 319
+".java" : 458
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +37,8 @@ title Coding activity by hour (count of changes)
 "13h" : 20
 "18h" : 16
 "22h" : 16
-"23h" : 29
+"23h" : 51
 ```
 
 
-> **Last Updated:** 10/25/2026, 11:17:25 PM
+> **Last Updated:** 10/25/2026, 11:22:25 PM
