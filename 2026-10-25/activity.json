@@ -2,9 +2,9 @@
   "date": "2026-10-25",
   "projects": {
     "TaskForge": {
-      "totalLinesAdded": 120,
+      "totalLinesAdded": 205,
       "totalLinesRemoved": 33,
-      "totalActiveTime": 47,
+      "totalActiveTime": 59,
       "files": {
         "c:\\Users\\dal\\Desktop\\TaskForge\\backend\\src\\main\\java\\com\\taskforge\\backend\\TaskStatusUpdate.java": [
           {
@@ -714,6 +714,148 @@
             "fileName": "c:\\Users\\dal\\Desktop\\TaskForge\\backend\\src\\main\\java\\com\\taskforge\\backend\\Task.java",
             "fileType": ".java",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "TaskForge",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\dal\\Desktop\\TaskForge\\backend\\src\\main\\java\\com\\taskforge\\backend\\User.java": [
+          {
+            "timestamp": "2026-10-25T21:47:56.923Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\TaskForge\\backend\\src\\main\\java\\com\\taskforge\\backend\\User.java",
+            "fileType": ".java",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "TaskForge",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-10-25T21:47:57.982Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\TaskForge\\backend\\src\\main\\java\\com\\taskforge\\backend\\User.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "TaskForge",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-10-25T21:48:04.307Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\TaskForge\\backend\\src\\main\\java\\com\\taskforge\\backend\\User.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "TaskForge",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-10-25T21:48:10.031Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\TaskForge\\backend\\src\\main\\java\\com\\taskforge\\backend\\User.java",
+            "fileType": ".java",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "TaskForge",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-10-25T21:48:27.595Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\TaskForge\\backend\\src\\main\\java\\com\\taskforge\\backend\\User.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "TaskForge",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-10-25T21:48:29.162Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\TaskForge\\backend\\src\\main\\java\\com\\taskforge\\backend\\User.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "TaskForge",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-10-25T21:48:32.862Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\TaskForge\\backend\\src\\main\\java\\com\\taskforge\\backend\\User.java",
+            "fileType": ".java",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "TaskForge",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-10-25T21:48:38.581Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\TaskForge\\backend\\src\\main\\java\\com\\taskforge\\backend\\User.java",
+            "fileType": ".java",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "TaskForge",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-10-25T21:49:29.705Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\TaskForge\\backend\\src\\main\\java\\com\\taskforge\\backend\\User.java",
+            "fileType": ".java",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "TaskForge",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-10-25T21:49:54.386Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\TaskForge\\backend\\src\\main\\java\\com\\taskforge\\backend\\User.java",
+            "fileType": ".java",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "TaskForge",
             "content": {
