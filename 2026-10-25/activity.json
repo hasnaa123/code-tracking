@@ -3,8 +3,8 @@
   "projects": {
     "TaskForge": {
       "totalLinesAdded": 414,
-      "totalLinesRemoved": 44,
-      "totalActiveTime": 121,
+      "totalLinesRemoved": 47,
+      "totalActiveTime": 123,
       "files": {
         "c:\\Users\\dal\\Desktop\\TaskForge\\backend\\src\\main\\java\\com\\taskforge\\backend\\TaskStatusUpdate.java": [
           {
@@ -1583,6 +1583,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-10-25T22:24:09.401Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\TaskForge\\backend\\src\\main\\java\\com\\taskforge\\backend\\Project.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "TaskForge",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "java"
           }
         ]
