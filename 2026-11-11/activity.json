@@ -1,0 +1,229 @@
+{
+  "date": "2026-11-11",
+  "projects": {
+    "dsa-java": {
+      "totalLinesAdded": 220,
+      "totalLinesRemoved": 31,
+      "totalActiveTime": 14,
+      "files": {
+        "c:\\Users\\dal\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2026-11-11T22:44:43.843Z",
+            "fileName": "c:\\Users\\dal\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 178,
+            "linesRemoved": 0,
+            "projectName": "dsa-java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-11-11T22:44:46.854Z",
+            "fileName": "c:\\Users\\dal\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "dsa-java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-11-11T22:45:02.495Z",
+            "fileName": "c:\\Users\\dal\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "dsa-java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-11-11T22:45:03.857Z",
+            "fileName": "c:\\Users\\dal\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "dsa-java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-11-11T22:45:10.268Z",
+            "fileName": "c:\\Users\\dal\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "dsa-java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-11-11T22:45:22.379Z",
+            "fileName": "c:\\Users\\dal\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "dsa-java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-11-11T22:46:28.888Z",
+            "fileName": "c:\\Users\\dal\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "dsa-java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-11-11T22:46:30.039Z",
+            "fileName": "c:\\Users\\dal\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "dsa-java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-11-11T22:46:44.232Z",
+            "fileName": "c:\\Users\\dal\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "dsa-java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-11-11T22:46:45.972Z",
+            "fileName": "c:\\Users\\dal\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "dsa-java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-11-11T22:47:01.731Z",
+            "fileName": "c:\\Users\\dal\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "dsa-java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-11-11T22:47:03.462Z",
+            "fileName": "c:\\Users\\dal\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "dsa-java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-11-11T22:47:04.961Z",
+            "fileName": "c:\\Users\\dal\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "dsa-java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-11-11T22:47:56.607Z",
+            "fileName": "c:\\Users\\dal\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "dsa-java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 14
+      },
+      "changeFrequency": {
+        "23": 14
+      },
+      "topFiles": [
+        "c:\\Users\\dal\\AppData\\Roaming\\Code\\User\\settings.json"
+      ],
+      "averageChangeSize": 17.928571428571427
+    }
+  },
+  "totalActiveTime": 14,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    23
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
