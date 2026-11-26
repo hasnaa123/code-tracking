@@ -2,9 +2,9 @@
   "date": "2026-11-26",
   "projects": {
     "TaskForge": {
-      "totalLinesAdded": 22,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 21,
+      "totalLinesAdded": 25,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 24,
       "files": {
         "c:\\Users\\dal\\Desktop\\TaskForge\\backend\\src\\test\\java\\com\\taskforge\\backend\\TaskTest.java": [
           {
@@ -208,6 +208,48 @@
             "fileName": "c:\\Users\\dal\\Desktop\\TaskForge\\backend\\src\\test\\java\\com\\taskforge\\backend\\TaskTest.java",
             "fileType": ".java",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "TaskForge",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-11-26T22:29:21.945Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\TaskForge\\backend\\src\\test\\java\\com\\taskforge\\backend\\TaskTest.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "TaskForge",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-11-26T22:30:31.642Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\TaskForge\\backend\\src\\test\\java\\com\\taskforge\\backend\\TaskTest.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "TaskForge",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-11-26T22:30:41.486Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\TaskForge\\backend\\src\\test\\java\\com\\taskforge\\backend\\TaskTest.java",
+            "fileType": ".java",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "TaskForge",
             "content": {
