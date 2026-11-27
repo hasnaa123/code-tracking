@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-27",
+  "projects": {
+    "TaskForge": {
+      "totalLinesAdded": 10,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Users\\dal\\Desktop\\TaskForge\\backend\\src\\test\\java\\com\\taskforge\\backend\\TaskTest.java": [
+          {
+            "timestamp": "2026-11-26T23:05:54.721Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\TaskForge\\backend\\src\\test\\java\\com\\taskforge\\backend\\TaskTest.java",
+            "fileType": ".java",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "TaskForge",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2026-11-26T23:06:29.200Z",
+            "fileName": "c:\\Users\\dal\\Desktop\\TaskForge\\backend\\src\\test\\java\\com\\taskforge\\backend\\TaskTest.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "TaskForge",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 3
+      },
+      "changeFrequency": {
+        "23": 3
+      },
+      "topFiles": [
+        "c:\\Users\\dal\\Desktop\\TaskForge\\backend\\src\\test\\java\\com\\taskforge\\backend\\TaskTest.java"
+      ],
+      "averageChangeSize": 5.5
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    23
+  ],
+  "mostUsedLanguages": [
+    "java"
+  ]
+}
